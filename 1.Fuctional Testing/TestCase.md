@@ -21,5 +21,4 @@ This document provides detailed test cases for the **Automation Practice** websi
 
 ---
 
-## Summary
-These test cases provide a structured approach to testing the website's core functionalities. Additional cases can be added as needed.
+
