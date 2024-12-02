@@ -63,4 +63,4 @@ Functional testing ensures that the website's core functionalities work as inten
 
 ---
 
-Feel free to adjust or expand this plan as needed.
+
