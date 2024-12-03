@@ -31,7 +31,7 @@ The dropdown menu is displayed in a different part of the page, far from the "Su
 
 ### **Screenshot:**
 The attached screenshot illustrates the issue with the dropdown menu's position.  
-![Screenshot](https://github.com/Prime2390/webapp-testing/blob/main/2.Visual%20Testing/Bugs/1.png)
+![Screenshot]([2.png]https://github.com/Prime2390/webapp-testing/blob/main/2.Visual%20Testing/Bugs/1.png)
 
 ---
 
@@ -202,7 +202,7 @@ An error message is displayed: "This page does not exist," and the page remains 
 
 ### **Screenshot:**
 The attached screenshot shows the error message when accessing the "Information" section.  
-![Screenshot](3.png)
+![Screenshot]([3.png](https://github.com/Prime2390/webapp-testing/blob/main/2.Visual%20Testing/Bugs/3.png))
 
 ---
 
