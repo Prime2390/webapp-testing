@@ -31,7 +31,7 @@ The dropdown menu is displayed in a different part of the page, far from the "Su
 
 ### **Screenshot:**
 The attached screenshot illustrates the issue with the dropdown menu's position.  
-![Screenshot](1.png)
+![Screenshot](https://github.com/Prime2390/webapp-testing/blob/main/2.Visual%20Testing/Bugs/1.png)
 
 ---
 
