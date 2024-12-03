@@ -145,7 +145,7 @@ The links in the "Follow us" section should direct users to active and correct s
 
 ### **Screenshot:**
 The screenshot below shows the "Follow us" section with inactive social media links.  
-![Screenshot](2.png)
+![Screenshot]((https://github.com/Prime2390/webapp-testing/blob/main/2.Visual%20Testing/Bugs/2.png))
 
 ---
 
